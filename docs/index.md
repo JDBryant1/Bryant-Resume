@@ -8,7 +8,7 @@ Email: joshuabryant1999@yahoo.com
 
 <div id="webaddress">
 | <a href="https://www.linkedin.com/in/josh-bryant-49088b145/">LinkedIn</a>
-  <a href="[https://www.linkedin.com/in/josh-bryant-49088b145/](https://github.com/JDBryant1/Bryant-Resume/edit/master/docs/index.md)">GitHub Resume</a>
+  <a href="[[https://www.linkedin.com/in/josh-bryant-49088b145/](https://github.com/JDBryant1/Bryant-Resume/edit/master/docs/index.md)](https://github.com/JDBryant1/Bryant-Resume/blob/0745e61d87e14f3e0b0fcf20fc8e7ab31cc9cce1/docs/index.md)">GitHub Resume</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
