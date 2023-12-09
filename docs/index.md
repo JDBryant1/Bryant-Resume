@@ -10,7 +10,7 @@ Email: joshuabryant1999@yahoo.com
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/josh-bryant-49088b145/">LinkedIn</a>
-| <a href="[https://github.com/JDBryant1/Bryant-Resume/blob/0745e61d87e14f3e0b0fcf20fc8e7ab31cc9cce1/docs/index.md](https://github.com/JDBryant1/Bryant-Resume/blob/b1d9843767e191156e66de5da62ad672017becba/docs/index.md)">GitHub</a>
+| <a href="https://github.com/JDBryant1/Bryant-Resume/blob/master/docs/index.md">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
